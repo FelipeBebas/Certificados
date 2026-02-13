@@ -1,0 +1,1 @@
+Espaço dedicado a certificações e declarações que comprovam a participação/conclusão/competência de diversas atividades em inúmeras áreas de conhecimentos tecnológicos. O objetivo é centralizar o registro da minha jornada educacional e profissional num espaço de fácil acesso.
