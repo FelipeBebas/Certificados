@@ -33,6 +33,6 @@ O objetivo é centralizar minha jornada de aprendizado em **Ciência de Dados, I
 Este repositório serve como **portfólio educacional**, permitindo que recrutadores, colegas e interessados acompanhem minha evolução em Data Science e AI.  
 Ele complementa minhas certificações formais (como EBAC e Oracle) e mostra meu compromisso contínuo com aprendizado e atualização.
 
-[LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/felipe-barros-de-francisco-124a3a9b/])  
+LinkedIn: https://www.linkedin.com/in/felipe-barros-de-francisco-124a3a9b/
 
 ---
